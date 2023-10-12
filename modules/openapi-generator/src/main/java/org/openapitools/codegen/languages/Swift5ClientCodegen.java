@@ -201,7 +201,7 @@ public class Swift5ClientCodegen extends DefaultCodegen implements CodegenConfig
                         // Keywords reserved in particular contexts
                         "associativity", "convenience", "dynamic", "didSet", "final", "get", "infix", "indirect", "lazy", "left",
                         "mutating", "none", "nonmutating", "optional", "override", "postfix", "precedence", "prefix", "Protocol",
-                        "required", "right", "set", "Type", "unowned", "weak", "willSet",
+                        "required", "right", "set", "Type", "unowned", "weak", "willSet", "container",
 
                         //
                         // Swift Standard Library types
